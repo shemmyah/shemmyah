@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>
   </a>
 </div>
-<h1 align="center">
+<h2 align="center">
   eloe!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h1>
+  <img src="https://im4.ezgif.com/tmp/ezgif-4-607d0fc288.gif" width="70px">
+</h2>
 
 ### 📖✍️ Currently Learning :
 <div>
