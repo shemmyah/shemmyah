@@ -15,7 +15,7 @@
 </div>
 <h2 align="center">
   eloe!
-  <img src="https://im4.ezgif.com/tmp/ezgif-4-607d0fc288.gif" width="70px">
+  <img src="https://media2.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47cz3r12yq9mzecx58atfvbu9m6wpb2ponzlc1cmwc&rid=giphy.gif&ct=s" width="70px">
 </h2>
 
 ### 📖✍️ Currently Learning :
