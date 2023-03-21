@@ -14,7 +14,7 @@
   </a>
 </div>
 <h2 align="center">
-  eloe!
+  Hello!
   <img src="https://media2.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47cz3r12yq9mzecx58atfvbu9m6wpb2ponzlc1cmwc&rid=giphy.gif&ct=s" width="70px">
 </h2>
 
