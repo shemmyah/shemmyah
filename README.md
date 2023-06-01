@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oathniel Shem Wajeeh de los Reyes</h1>
+<h1 align="center">Hi 👋, I'm Shem</h1>
 <h3 align="center">A passionate student developer</h3>
 
 - 🔭 I’m currently working on **personal projects**
