@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **React, TypeScript, Android**
+- 🌱 I’m currently learning **React, VueJS**
 
 - 📫 How to reach me **lawasshem@gmail.com**
 
