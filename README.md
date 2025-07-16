@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media2.giphy.com/media/iF1ZApye3OwZk0H2iL/giphy.gif?cid=ecf05e479l87h1qed6q6aap0owjxsu3emqm8itu4aaqyl8aa&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="45px">, I'm <span style="color:#e44d26">Shem</span> 👩🏻‍💻</h1>
+<h1 align="center">Hi there, I'm <span style="color:#e44d26">Shem</span> 👩🏻‍💻</h1>
 
 <p align="center">🌸 Aspiring Full-Stack Developer | Laravel Dev | Sometimes Dancer 🩰</p>
 
@@ -20,7 +20,8 @@
 ### 📱 Connect With Me
 
 <p align="left">
-  <a href="https://codesandbox.io/u/shemmyah" target="_blank"><img src="https://img.shields.io/badge/CodeSandbox-%2317C5C3.svg?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" /></a>
+  <a href="mailto:lawasshem@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://instagram.com/shemmyah" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
