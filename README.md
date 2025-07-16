@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **React, VueJS**
+- 🌱 I’m currently learning **Laravel & Different Laravel Frameworks**
 
 - 📫 How to reach me **lawasshem@gmail.com**
 
