@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently building: **Sweet Laravel Projects**  
 - 🌱 Learning deeply: **Laravel + its Ecosystem (Livewire, Breeze, Jetstream, etc.)**  
-- 💌 Currently working on: [**Letter-to-You**](https://letter-to-you-main-jzdtz5.laravel.cloud/) — a love project for my long-distance boyfriend 💖  
+- 💌 Currently working on: [**Letter-to-You**] — a love project for my long-distance boyfriend 💖  
 - 📫 Reach me at: **lawasshem@gmail.com**  
 - ⚡ Fun fact: _I think I know how to dance_  
   <img src="https://media0.giphy.com/media/dUrwf15oqr6Dds6g6U/giphy.gif?cid=ecf05e47hvbuhx0t06g78b6qkm5u2t2xbu2ecq0y17h6jhfg&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40px" />
@@ -56,7 +56,7 @@
 
 ### 💖 Featured Project
 
-📬 [**Letter To You**](https://letter-to-you-main-jzdtz5.laravel.cloud)  
+📬 [**Letter To You**]
 A love-inspired Laravel project where I send daily letters, each one with animations and personalized music, for my long-distance boyfriend.  
 Because... why just code when you can also make someone smile? ✨
 
