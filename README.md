@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently building: **Sweet Laravel Projects**  
 - 🌱 Learning deeply: **Laravel + its Ecosystem (Livewire, Breeze, Jetstream, etc.)**  
-- 💌 Currently working on: [**Blogtopia**] — a website where everyone can share their blogs 💖  
+- 💌 Currently working on: [**Blogtopia**] — a simple and cozy place to write, share, and connect through stories. 💖  
 - 📫 Reach me at: **lawasshem@gmail.com**  
 - ⚡ Fun fact: _I think I know how to dance_  
   <img src="https://media0.giphy.com/media/dUrwf15oqr6Dds6g6U/giphy.gif?cid=ecf05e47hvbuhx0t06g78b6qkm5u2t2xbu2ecq0y17h6jhfg&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40px" />
