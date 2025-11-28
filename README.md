@@ -56,9 +56,8 @@
 
 ### 💖 Featured Project
 
-📬 [**Letter To You**]
-A love-inspired Laravel project where I send daily letters, each one with animations and personalized music, for my long-distance boyfriend.  
-Because... why just code when you can also make someone smile? ✨
+📬 [**Blogtopia**]
+A Laravel-powered social blog platform that lets users create posts, share moments, interact through likes and comments, and receive real-time notifications, all wrapped in a clean, modern UI. ✨
 
 ---
 
