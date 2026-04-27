@@ -35,18 +35,20 @@
 
 ### 🛠 Languages & Tools I Work With
 
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ff8fa3?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-8ecae6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-cdb4db?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-fde74c?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-bde0fe?style=for-the-badge&logo=php&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-a2d2ff?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-95d5b2?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-ffd6a5?style=for-the-badge&logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/Laravel-ffafcc?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-caf0f8?style=for-the-badge&logo=tailwindcss&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-90e0ef?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Quasar-cdb4db?style=for-the-badge&logo=quasar&logoColor=white" />
+</p>
 
 ---
 
