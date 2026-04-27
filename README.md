@@ -13,52 +13,51 @@
 - 💌 Currently working on: [**Blogtopia**] — a simple and cozy place to write, share, and connect through stories. 💖  
 - 📫 Reach me at: **lawasshem@gmail.com**  
 - ⚡ Fun fact: _I think I know how to dance_  
-  <img src="https://media0.giphy.com/media/dUrwf15oqr6Dds6g6U/giphy.gif?cid=ecf05e47hvbuhx0t06g78b6qkm5u2t2xbu2ecq0y17h6jhfg&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="40px" />
+  <img src="https://media0.giphy.com/media/dUrwf15oqr6Dds6g6U/giphy.gif" width="40px" />
 
 ---
 
 ### 📱 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:lawasshem@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shemmyah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/shemmyah" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
 ### 🛠 Languages & Tools I Work With
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Livewire-4E1D95?style=for-the-badge&logo=laravel&logoColor=white" alt="Livewire" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="margin:5px"/>
+  <img src="https://img.shields.io/badge/Livewire-4E1D95?style=for-the-badge&logo=laravel&logoColor=white" height="30" style="margin:5px"/>
 </p>
-
-
 
 ---
 
 ### 💖 Featured Project
 
-📬 [**Blogtopia**]
+📬 [**Blogtopia**]  
 A Laravel-powered social blog platform that lets users create posts, share moments, interact through likes and comments, and receive real-time notifications, all wrapped in a clean, modern UI. ✨
 
 ---
 
-_Thanks for stopping by! Feel free to check out my repos or drop a message 💌_
+<p align="center">
+  _Thanks for stopping by! Feel free to check out my repos or drop a message 💌_
+</p>
